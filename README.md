@@ -23,3 +23,6 @@ HOTSTAR LIVE PRROJECT
 
 
 API URL :"http://www.omdbapi.com/?apikey=[yourkey]&"
+
+![image](https://github.com/user-attachments/assets/cdc46fd6-5cfd-4439-83bc-fc6f1118c7a5)
+
